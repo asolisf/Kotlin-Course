@@ -1,3 +1,3 @@
 # Kotlin course
 
-[Kotlin documentation](https://kotlinlang.org)
+[Kotlin multiplatform documentation](https://kotlinlang.org/docs/reference/multiplatform.html)
