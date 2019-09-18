@@ -1,8 +1,5 @@
 package com.alansolisflores.main
 
-import java.util.*
-
-
 fun main(args: Array<String>){
 	variablesTypes()
 	nullableVar()
